@@ -10,8 +10,29 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.11.8" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:jetty-util:6.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:jetty:6.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:servlet-api:2.5-20081211" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-jmx:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-webapp:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:9.2.9.v20150224" level="project" />
+    <orderEntry type="library" name="Maven: tomcat:jasper-compiler:5.5.23" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:jsp-api:2.0" level="project" />
+    <orderEntry type="library" name="Maven: ant:ant:1.6.5" level="project" />
+    <orderEntry type="library" name="Maven: tomcat:jsp-api:5.5.23" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:servlet-api:2.4" level="project" />
+    <orderEntry type="library" name="Maven: tomcat:jasper-runtime:5.5.23" level="project" />
+    <orderEntry type="library" name="Maven: commons-el:commons-el:1.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
     <orderEntry type="library" name="Maven: junit:junit:4.8.2" level="project" />
-    <orderEntry type="library" name="scala-sdk-2.11.8" level="project" />
   </component>
 </module>
