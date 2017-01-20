@@ -43,10 +43,21 @@ class PageTable extends AbstractHandler {
 
 object PageTable {
 
+  val sk = 1 to 10
+
+  def run(): Unit = {
+    val num = for (i <- sk) yield i
+    println(num.getClass)
+  }
+
   def main(args: Array[String]): Unit = {
+
+    run()
+    run()
+
     val server: Server = new Server(8080)
     server.setHandler(new PageTable)
-    server.start()
-    server.join()
+    //server.start()
+    //server.join()
   }
 }
